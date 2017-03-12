@@ -109,6 +109,7 @@ def get_umsi_data():
 
 
 ## PART 2 (b) - Create a dictionary saved in a variable umsi_titles 
+
 ## whose keys are UMSI people's names, and whose associated values are those people's titles, e.g. "PhD student" or "Associate Professor of Information"...
 page_contents= get_umsi_data()
 umsi_titles = {}
